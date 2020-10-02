@@ -1,1 +1,4 @@
-# collegestart
+# College Start
+All Star Code Summer Intensive Final Project
+
+The one-stop-shop to make your high school resume pop and help you get into the college of your dreams. College applications are stressful and the thought of being rejected haunts just about every high school student ever. College Start allows you to search for your dream college, find opportunities to make you stand out, find jobs and scholarships to fund your education, and connect with current college students and alumni to assist you on your way to college. Create an account to unlock all the features which are tailored to you to make it easy to find what you need.
